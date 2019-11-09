@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E7E4E3B2"
+    tools:context=".contact">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:textStyle="bold"
+        android:text="        FOR ANY ENQUIRY!!! \n                 CONTACT \n    sourov2334@gmail.com "
+        android:textColor="#e71431f4"
+        android:textSize="30dp" />
+
+</LinearLayout>
